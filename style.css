@@ -15,7 +15,7 @@ font-style: normal;
 body{
     background-color: hsl(212, 45%, 89%);
 }
-.red{
+.qrMain{
     display: flex;
     flex-direction: column;
     padding: 15px;
@@ -33,7 +33,7 @@ body{
     width: 320px;
     border-radius: 15px 15px 15px 15px;
 }
-.blue{
+.Marketing{
     color: hsl(218, 44%, 22%);
     width: 280px;
     margin-top:20px;
@@ -41,7 +41,7 @@ body{
     font-weight: 700;
     text-align: center;
 }
-.orange{
+.tutorial{
     color: hsl(220, 15%, 55%);
     text-align: center;
     width: 280px;
